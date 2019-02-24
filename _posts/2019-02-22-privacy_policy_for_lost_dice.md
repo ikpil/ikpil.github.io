@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "Privacy Policy For Lost Dice"
 date: 2019-02-22 14:25:00 -0900
 categories: etc
 ---
