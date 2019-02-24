@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy For Lost Math"
 date: 2019-02-22 14:25:00 -0900
-categories: privacy & terms
+categories: privacy_terms
 ---
 
 ## Privacy Policy
