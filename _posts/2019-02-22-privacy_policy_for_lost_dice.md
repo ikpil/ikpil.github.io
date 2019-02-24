@@ -1,3 +1,9 @@
+---
+title: "Privacy Policy"
+date: 2019-02-22 14:25:00 -0900
+categories: etc
+---
+
 ## Privacy Policy
 
 DLVOOL built the Lost Dice app as a Free app. This SERVICE is provided by DLVOOL at no cost and is intended for use as is.
