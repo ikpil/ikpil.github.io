@@ -1,5 +1,6 @@
 ---
 title: "독서 - 생각하게 하지마 3판"
+layout: single
 date: 2025-09-07 20:40:00 -0900
 categories: books
 ---
